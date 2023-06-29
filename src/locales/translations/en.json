@@ -1,0 +1,547 @@
+{
+  "create_account": "Create an account",
+  "pw_characters_minimum": "8 characters minimum",
+  "pw_lowercase": "1 lowercase",
+  "pw_uppercase": "1 uppercase",
+  "pw_special": "1 special",
+  "pw_number": "1 number",
+  "next": "Next",
+  "previouse": "Previous",
+  "signup": "Sign Up",
+  "login": "Log In",
+  "back": "Back",
+  "go_back": "Go Back",
+  "back_to": "Back to",
+  "or": "OR",
+  "signup_google": "Sign up with Google",
+  "signup_facebook": "Sign up with Facebook",
+  "submit": "Submit",
+  "reset_pw": "Reset Password",
+  "agree": "By signing up, you agree to our",
+  "terms_conditions": "Terms & Conditions",
+  "and": "and",
+  "privacy_policy": "Privacy Policy",
+  "already_have_account": "Already have an account?",
+  "welcome_back": "Welcome back",
+  "forgot_password": "Forgot Password",
+  "have_account_yet": "Don`t have account?",
+  "forgot_pw_content": "Enter your email below and we’ll get you back into your account.",
+  "email_sent": "Email sent!",
+  "email_sent_content": "We`ve sent a password reset link to your email. Use this link to change your password.",
+  "no_link": "Didn’t get a link?",
+  "resend_link": "Resend Link",
+  "reset_pw_content": "Please create new password.",
+  "reset_pw_confirm_content": "Your password has been changed.",
+  "welcome_to_tenure": "Welcome to Tenure",
+  "welcome_to_tenure_content": "Before we get started, we need to know a few things about you.",
+  "basic_info": "Basic info",
+  "your_name": "What is your name?",
+  "your_birthday": "When is your birthday?",
+  "best_represents": "What best represents you?",
+  "RRSP": "Do you have an RRSP?",
+  "you_located": "Where are you located?",
+  "you_located_content": "We will use the location for localized deal offers.",
+  "link_payment_card": "Link payment card",
+  "link_card__content": "If you opt into round-ups, we’ll calculate the amount, total it and at the end of the month, send it to your money manager to move funds into your investment account. If you are a student your card will not be charged for cashback offers.",
+  "skip_for_now": "Skip for Now",
+  "previous_step": "Previous Step",
+  "link_card_content": "With your linked card, you can get exclusive cash-back offers and round-up all purchases",
+  "link_card": "Link A Card",
+  "link_card_empty" : "You have no linked cards at this time",
+  "link_your_card": "Link card",
+  "link_payment_card_content": "By connecting your payment card, we’ll automatically save when you regularly spend.",
+  "link_your_card_content1": "By clicking Link below you authorize the payment card network (i.e. Visa, Mastercard) can monitor your payment card and share your transaction details (such as date, time, amount and merchant) from purchases as required to participate in the Program as per the",
+  "link_your_card_content2": ". Debit transactions are not monitored. Your transaction data will be shared with the Program provider, Olive Group Ltd., and Tenure to enable card-linked offers, identify offers that may be of interest to you based on location, calculate round-up amounts, and provide Program notifications. You may opt-out of this transaction monitoring at any time by going to your ‘program settings’.",
+  "payment_linked_success": "Payment card successfully linked",
+  "payment_linked_failed": "Payment card link failed. Please try again",
+  "try_again": "Try Again",
+  "employee": "Employee",
+  "small_business_owner": "Small business owner",
+  "student": "Student",
+  "large_business_owner": "Large business owner",
+  "represents": [
+    "Employee",
+    "Small business owner",
+    "Student",
+    "Large business owner"
+  ],
+  "rrsp": [
+    "Yes",
+    "No"
+  ],
+  "sliders": [
+    {
+      "title": "The Tenure Platform",
+      "text": "Once you sign up, there are four ways we help save your money."
+    },
+    {
+      "title": "Cash-back",
+      "text": "Use your linked card for an exclusive offer at participating merchants and receive a percentage of the purchase to put toward your student debt."
+    },
+    {
+      "title": "Round-up",
+      "text": "We calculate a round-up amount on every linked card purchase to a set amount, total it and at the end of the month, send that total to your money manager to move the funds from your pre-authorized debit account into your investment account."
+    },
+    {
+      "title": "Goal-setting",
+      "text": "With Tenure you can create multiple financial goals and save towards them."
+    },
+    {
+      "title": "Employer contributions",
+      "text": "Your employers can create Tenure accounts help you reach your financial goals faster."
+    }
+  ],
+  "round_up": "Round-up",
+  "round_up_content": "We round up every purchase you make and put that money towards your savings.",
+  "round_up_ammounts": "Customize your round-up amounts",
+  "max_weekly_round_up_amount": "Enter your maximum weekly round-up amount",
+  "round_up_settings": "Select your round-up settings",
+  "round_up_settings_itmes": [
+    {
+      "label": "Round-up to nearest $1",
+      "value": 1
+    },
+    {
+      "label": "Round-up to nearest $2",
+      "value": 2
+    },
+    {
+      "label": "Round-up to nearest $3",
+      "value": 3
+    }
+  ],
+  "nearest_round_up_amount": "Set custom nearest round-up amount",
+  "set_rounded_up_amount": "Set Round-up Amount",
+  "round_up_amount_successfully_set": "Round-up amount successfully set",
+  "savings_goal": "Savings goal",
+  "edit_goal":"Edit goal",
+  "delete_goal" : "Delete goal",
+  "savings_breakdown": "Savings breakdown",
+  "savings_goal_content": "Let`s set some goals and contribute a portion of your spending to your savings",
+  "set_your_savings_goal": "Set your savings goal",
+  "saving_for": "What are you saving for?",
+  "your_goal": "What is your goal?",
+  "savings_goal_empty_content": "You haven’t created any savings goas yet",
+  "percentage_of_spending_to_save": "Percentage of spending to save",
+  "add_another_goal": "Add Another Goal",
+  "add_goal": "Add Goal",
+  "romove_goal": "Remove Goal",
+  "welcome_jone": "Welcome, Jon",
+  "featured_deals": "Featured deals",
+  "featured_goal_empty_content": "There are no featured deals at this time",
+  "total_savings": "Total Savings",
+  "savings_info": "See Full Savings Info",
+  "saving_goals": "Saving Goals",
+  "transfer_savings": "Transfer Savings",
+  "transfer": "Transfer",
+  "transaction_details": "Transaction details",
+  "transaction_edit": "Edit Transaction Details",
+  "create_saving_goal": "Create Saving Goal",
+  "goal_delete_content": "Are you sure you want to delete this goal?",
+  "yes_delete": "Yes, delete",
+  "no_delete": "No, don`t delete",
+  "your_history": "Your History",
+  "your_savings": "Your Savings",
+  "savings_info_empty_content": "You have no savings information at this time",
+  "your_deals": "Deals",
+  "your_settings": "Settings",
+  "cash-back": "Cash-back",
+  "round-up": "Round-up",
+  "required_field": "This field is required",
+  "pin_required_field": "Pin is required",
+  "pin_confirm_field": "Pin confirm failed",
+  "pin_incorrect_field": "Pin is incorrect",
+  "pin_details": "Enter your transaction pin",
+  "pin_content": "Enter your pin to complete the transfer",
+  "transfer_failed": "Transfer failed. Please try again",
+  "transfer_success": "Transfer successful",
+  "done": "Done",
+  "book_now": "Book Now",
+  "cashBacks": [
+    {
+      "name": "Starbucks",
+      "amount": 50.0,
+      "visits": 1
+    },
+    {
+      "name": "Starbucks",
+      "amount": 50.0,
+      "visits": 1
+    },
+    {
+      "name": "Starbucks",
+      "amount": 50.0,
+      "visits": 1
+    },
+    {
+      "name": "Starbucks",
+      "amount": 50.0,
+      "visits": 1
+    }
+  ],
+  "roundUps": [
+    {
+      "name": "Starbucks",
+      "amount": 50.0,
+      "visits": 1
+    },
+    {
+      "name": "Starbucks",
+      "amount": 50.0,
+      "visits": 1
+    }
+  ],
+  "travel_deals": [
+    {
+      "title": "MakeMyTrip",
+      "location": "50% off a 5-Day All-Inclusive",
+      "discountDiscritption": "Caribbean Cruise",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "MakeMyTrip",
+      "location": "50% off a 5-Day All-Inclusive",
+      "discountDiscritption": "Caribbean Cruise",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "MakeMyTrip",
+      "location": "50% off a 5-Day All-Inclusive",
+      "discountDiscritption": "Caribbean Cruise",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "MakeMyTrip",
+      "location": "50% off a 5-Day All-Inclusive",
+      "discountDiscritption": "Caribbean Cruise",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "MakeMyTrip",
+      "location": "50% off a 5-Day All-Inclusive",
+      "discountDiscritption": "Caribbean Cruise",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "MakeMyTrip",
+      "location": "50% off a 5-Day All-Inclusive",
+      "discountDiscritption": "Caribbean Cruise",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "MakeMyTrip",
+      "location": "50% off a 5-Day All-Inclusive",
+      "discountDiscritption": "Caribbean Cruise",
+      "expiryDate": "Expires 01/06/2023"
+    }
+  ],
+  "retail_deals": [
+    {
+      "title": "GAP",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "GAP",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "GAP",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "GAP",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "GAP",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "GAP",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    }
+  ],
+  "health_deals": [
+    {
+      "title": "Healthfit",
+      "discountDiscritption": "20% off annual gym membership",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Healthfit",
+      "discountDiscritption": "20% off annual gym membership",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Healthfit",
+      "discountDiscritption": "20% off annual gym membership",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Healthfit",
+      "discountDiscritption": "20% off annual gym membership",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Healthfit",
+      "discountDiscritption": "20% off annual gym membership",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Healthfit",
+      "discountDiscritption": "20% off annual gym membership",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    }
+  ],
+  "food_deals": [
+    {
+      "title": "Starbucks",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Starbucks",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Starbucks",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Starbucks",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Starbucks",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    },
+    {
+      "title": "Starbucks",
+      "discountDiscritption": "Visit 2 times and save 5%",
+      "location": "190, Queens street E,Brampton",
+      "expiryDate": "Expires 01/06/2023"
+    }
+  ],
+  "travel_deal": {
+    "title": "MakeMyTrip",
+    "discountDiscritption": "50% off a 5-Day All-Inclusive",
+    "location": "Caribbean Cruise",
+    "expiryDate": "Expires 01/06/2023",
+    "status": "Available",
+    "description": "50% off a 5-Day All-Inclusive Caribbean Cruise\nDescription: Escape to paradise with this incredible deal on a 5-day all-inclusive Caribbean cruise. Sail aboard a luxurious cruise ship and experience the breathtaking beauty of the Caribbean islands. Enjoy unlimited gourmet dining, exciting onboard activities, live entertainment, and access to various amenities throughout your journey.",
+    "inclusion": [
+      "50% off the regular price of the cruise fare.",
+      "Complimentary cabin upgrade to a balcony stateroom.",
+      "Access to multiple destinations in the Caribbean, including popular ports of call.",
+      "Onboard swimming pools, fitness center, and spa facilities.",
+      "Evening shows, live performances, and themed parties.",
+      "All meals and non-alcoholic beverages included.",
+      "24/7 dedicated onboard customer service.",
+    ],
+    "termsAndConditions": [
+      "Offer valid for new bookings made before 01/06/2023.",
+      "Discount applies to the base cruise fare only and does not include taxes, fees, or gratuities.",
+      "Subject to availability and cabin capacity.",
+      "Additional terms and restrictions may apply. Please review the cruise line's website or contact their customer service for complete details.",
+      "Airfare and ground transportation to and from the embarkation port are not included.",
+    ]
+  },
+  "food_deal": {
+    "title": "Starbucks",
+    "discountDiscritption": "50% off a 5-Day All-Inclusive",
+    "location": "190, Queens street E,Brampton",
+    "expiryDate": "Expires 01/06/2023",
+    "status": "Available",
+    "advt": "Buy One, Get One 50% Off on Selected Fashion Items",
+    "description": "Limit is one redemption per customer in one visit. Cannot be combined with out promotions."
+  },
+  "retail_deal": {
+    "title": "GAP",
+    "discountDiscritption": "20% off annual gym membership",
+    "location": "190, Queens street E,Brampton",
+    "expiryDate": "Expires 01/06/2023",
+    "status": "Available",
+    "advt": "Buy One, Get One 50% Off on Selected Fashion Items",
+    "description": "Take advantage of this limited-time offer for a comprehensive health insurance plan with enhanced benefits. This plan provides coverage for medical, hospitalization, and prescription drug expenses, ensuring you and your family have access to quality healthcare when you need it most.",
+    "inclusion": [
+      "Wide selection of clothing, footwear, and accessories for men, women, and children.",
+      "Variety of styles, including casual wear, formal attire, activewear, and more.",
+      "Access to multiple destinations in the Caribbean, including popular ports of call.",
+      "Onboard swimming pools, fitness center, and spa facilities.",
+      "Evening shows, live performances, and themed parties.",
+      "All meals and non-alcoholic beverages included.",
+      "24/7 dedicated onboard customer service.",
+    ],
+    "termsAndConditions": [
+      "Offer valid for new bookings made before 01/06/2023.",
+      "Discount applies to the base cruise fare only and does not include taxes, fees, or gratuities.",
+      "Subject to availability and cabin capacity.",
+      "Additional terms and restrictions may apply. Please review the cruise line's website or contact their customer service for complete details.",
+      "Airfare and ground transportation to and from the embarkation port are not included.",
+    ]
+  },
+  "health_deal": {
+    "title": "GAP",
+    "discountDiscritption": "20% off annual gym membership",
+    "location": "190, Queens street E,Brampton",
+    "expiryDate": "Expires 01/06/2023",
+    "status": "Available",
+    "advt": "Buy One, Get One 50% Off on Selected Fashion Items",
+    "description": "Take advantage of this limited-time offer for a comprehensive health insurance plan with enhanced benefits. This plan provides coverage for medical, hospitalization, and prescription drug expenses, ensuring you and your family have access to quality healthcare when you need it most.",
+    "inclusion": [
+      "Wide selection of clothing, footwear, and accessories for men, women, and children.",
+      "Variety of styles, including casual wear, formal attire, activewear, and more.",
+      "Access to multiple destinations in the Caribbean, including popular ports of call.",
+      "Onboard swimming pools, fitness center, and spa facilities.",
+      "Evening shows, live performances, and themed parties.",
+      "All meals and non-alcoholic beverages included.",
+      "24/7 dedicated onboard customer service.",
+    ],
+    "termsAndConditions": [
+      "Offer valid for new bookings made before 01/06/2023.",
+      "Discount applies to the base cruise fare only and does not include taxes, fees, or gratuities.",
+      "Subject to availability and cabin capacity.",
+      "Additional terms and restrictions may apply. Please review the cruise line's website or contact their customer service for complete details.",
+      "Airfare and ground transportation to and from the embarkation port are not included.",
+    ]
+  },
+  "notification" : "Notificaions",
+  "notification_empty" : "You have no notifications at this time",
+  "notifications": [{
+    "date": "Today",
+    "notifies": [
+      {
+        "title": "You've earned $5 in cash-back",
+        "description": "You've earned $5 in cash-back from your purchase at Starbucks",
+      },
+      {
+        "title": "You've earned $5 in cash-back",
+        "description": "You've earned $5 in cash-back from your purchase at Starbucks",
+      },
+      {
+        "title": "New deal alert",
+        "description": "MakeMyTrip is offering a 50% discount on a 5-day cruise to the caribean.",
+      }
+    ]
+  },
+  {
+    "date": "Yesterday",
+    "notifies": [
+      {
+        "title": "You've earned $5 in cash-back",
+        "description": "You've earned $5 in cash-back from your purchase at Starbucks",
+      },
+      {
+        "title": "You've earned $5 in cash-back",
+        "description": "You've earned $5 in cash-back from your purchase at Starbucks",
+      },
+      {
+        "title": "New deal alert",
+        "description": "MakeMyTrip is offering a 50% discount on a 5-day cruise to the caribean.",
+      }
+    ]
+  },
+  {
+    "date": "Older",
+    "notifies": [
+      {
+        "title": "You've earned $5 in cash-back",
+        "description": "You've earned $5 in cash-back from your purchase at Starbucks",
+      },
+      {
+        "title": "You've earned $5 in cash-back",
+        "description": "You've earned $5 in cash-back from your purchase at Starbucks",
+      },
+      {
+        "title": "New deal alert",
+        "description": "MakeMyTrip is offering a 50% discount on a 5-day cruise to the caribean.",
+      }
+    ]
+  }],
+  "settings" : "Settings",
+  "update_profile_photo" : "Update Profile Photo",
+  "personal_info" : "Personal info",
+  "personal_detail" : "Personal details",
+  "full_name" : "Full name",
+  "email" : "Email",
+  "birthday" : "Birthday",
+  "location" : "Location",
+  "change_password" : "Change password",
+  "change_transfer_pin" : "Change transfer pin",
+  "create_pin" : "Create transfer pin",
+  "edit_pin" : "Edit transfer pin",
+  "create_pin_detail" : "Enter a unique 4 digit number",
+  "reenter_pin" : "Re-enter your pin",
+  "edit_pin_detail" : "Enter your existing pin",
+  "enter_your_new_pin" : "Enter your new pin",
+  "reenter_your_new_pin" : "Re-enter your new pin",
+  "linked_cards" : "Linked cards",
+  "link_another_cards" : "Link Another Card",
+  "save_changes" : "Save Changes",
+  "edit_your_card" : "Edit your card",
+  "edit_payment_card" : "Edit payment card",
+  "edit_payment_card_description" : "By connecting your payment card, we’ll automatically save when you regularly spend.",
+  "payment_card_update" : "Payment card info updated",
+  "notifications_settings" : "Notifications Settings",
+  "deals_near_me" : "Deals near me",
+  "push_notifications" : "Push notifications",
+  "policy_term_update" : "Policy and terms update",
+  "marketing_promotions" : "Marketing and promotions",
+  "email_default" : "Email (default)",
+  "notification_policy" : "As a part of Tenure, we send offers within this app and, if you opt-in for promotional messages by email and/or push notifications as you choose to receive notifications above. To learn more about Tenure's information practices, please read our Privacy Policy.",
+  "contact_support" : "Contact support",
+  "goals_array" : [
+    {
+      "title": "First home",
+      "goal": "20000",
+      "percentage": "20"
+    },
+    {
+      "title": "Vacation",
+      "goal": "5000",
+      "percentage": "50"
+    },
+    {
+      "title": "Chrismas shop",
+      "goal": "5000",
+      "percentage": "50"
+    },
+    {
+      "title": "New car",
+      "goal": "30000",
+      "percentage": "70"
+    },
+    {
+      "title": "New car",
+      "goal": "30000",
+      "percentage": "70"
+    }
+  ]
+}
